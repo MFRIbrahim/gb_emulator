@@ -9,7 +9,11 @@ It can run the following games:
 * Dr. Mario
 
 
-# Usage
+# Installation
+This emulator requires SDL 2.0:
+```
+sudo apt-get install libsdl2-dev
+```
 
 Clone the repository and build it with cmake and make:
 ```
