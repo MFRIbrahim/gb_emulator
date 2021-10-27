@@ -8,6 +8,8 @@ and it can run the following games:
 * Tetris
 * Dr. Mario
 
+![Tetris](images/screenshot_tetris.png)
+![Dr.Mario](images/screenshot_drmario.png)
 
 # Installation
 This emulator requires SDL 2.0:
