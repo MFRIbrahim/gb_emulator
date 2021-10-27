@@ -4,7 +4,7 @@ A simple Game Boy emulator written in C++ without sound support. Currently, this
 * Blargg's cpu_instr test
 * Blargg's instr_timing test
 
-It can run the following games:
+and it can run the following games:
 * Tetris
 * Dr. Mario
 
